@@ -1,0 +1,5 @@
+name: adhkar_dart_salah_post_tasbih
+description: "Post-Fard Salah Tasbih (33x3 + Tamam Al-Mi'ah) State Counter"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
